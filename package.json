@@ -1,6 +1,6 @@
 {
   "name": "from-dec",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "A utility library to convert from decimal to any base",
   "main": "index.js",
   "scripts": {

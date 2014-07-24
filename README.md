@@ -1,4 +1,4 @@
-Node.js merge sorted array
+Node.js From Decimal
 A utility library to convert decimal number to any base
 
 Installation
